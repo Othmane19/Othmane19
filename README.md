@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Othmane19
 - 👀 I’m interested in Smartgrids and computer science
 - 🌱 I’m currently learning Trading techniques
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on P2P Energy trading projects
 - 📫 How to reach me : Othmane176@gmail.com
 
 <!---
